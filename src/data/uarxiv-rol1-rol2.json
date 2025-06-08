@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Understanding the Universe",
+      "authors": ["John Doe", "Jane Smith"],
+      "abstract": "This paper explores the fundamental concepts of the universe.",
+      "categories": ["astro-ph"],
+      "published": "2025-01-01"
+    },
+    {
+      "id": "2",
+      "title": "Advancements in Quantum Computing",
+      "authors": ["Alice Johnson"],
+      "abstract": "This research discusses the latest advancements in quantum computing technology.",
+      "categories": ["cs.QC"],
+      "published": "2025-02-15"
+    },
+    {
+      "id": "3",
+      "title": "Machine Learning in Healthcare",
+      "authors": ["Bob Brown", "Emily White"],
+      "abstract": "An overview of how machine learning is transforming healthcare.",
+      "categories": ["cs.LG", "stat.ML"],
+      "published": "2025-03-10"
+    }
+  ]
+}

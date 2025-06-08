@@ -1,0 +1,5 @@
+PyMongo
+docker
+jupyter
+pandas
+numpy
